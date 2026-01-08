@@ -5,8 +5,7 @@ This is the official Homebrew tap for [agentviewer](https://github.com/pengelbre
 ## Installation
 
 ```bash
-brew tap pengelbrecht/agentviewer
-brew install agentviewer
+brew install pengelbrecht/agentviewer/agentviewer
 ```
 
 ## Updating
